@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="JavaKeyboard/src"/>
+	<classpathentry kind="lib" path="C:/Users/KepLo/Desktop/Java project/java - библиотеки/jna-5.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/KepLo/Desktop/Java project/java - библиотеки/jna-platform-5.9.0.jar"/>
+	<classpathentry kind="output" path="JavaKeyboard/bin"/>
+</classpath>
